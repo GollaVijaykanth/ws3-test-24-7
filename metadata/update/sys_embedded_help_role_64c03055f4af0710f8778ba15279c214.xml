@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_ws3test24_0.admin" name="x_snc_ws3test24_0.admin">60c03055f4af0710f8778ba15279c211</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2026-09-24 13:37:29</sys_created_on>
+        <sys_id>64c03055f4af0710f8778ba15279c214</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>60c03055f4af0710f8778ba15279c211</sys_name>
+        <sys_package display_value="ws3test24-7-personal-oauth" source="x_snc_ws3test24_0">24c0fc15f4af0710f8778ba15279c233</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ws3test24-7-personal-oauth">24c0fc15f4af0710f8778ba15279c233</sys_scope>
+        <sys_update_name>sys_embedded_help_role_64c03055f4af0710f8778ba15279c214</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2026-09-24 13:37:29</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
